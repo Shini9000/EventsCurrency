@@ -1,0 +1,7 @@
+{
+  "id": "eventcurrency",
+  "name": "EventCurrency",
+  "version": "1.0.0",
+  "main": "me.shini9000.eventcurrency.EventCurrency",
+  "authors": ["Shini9000"]
+}
